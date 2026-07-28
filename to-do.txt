@@ -1,0 +1,9 @@
+Ana fikir : (TKinter ve requests) bu ikisini kullanarak herhangi bir weather apısi alıp bunu tkinter üzerinden ekrana guı
+olarak vermek portföye de eklenecek. o yüzden hava durumlarını fotoğraf ekle dosyaya ve if kullanarak bunu tkinterda görselleştirilecek
+ve altına label atarak hava durumu ekrana yazdırırım (text ile de olabilir araştırmam lazım).
+
+1.weather app oluştur
+2.tkintera nasıl yansıtırım onu düşün araştır Google üzerinden
+3.fotoğrafları ekle
+4.tkintera ekle weather appi ve görselleştir
+5.portfölyeye ekle
